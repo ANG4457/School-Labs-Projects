@@ -1,1 +1,1 @@
-This is a place fore me to store and show off the programs I had created while taking intro Java Courses at shsu. All of these programs are extremely simple and show the foundation of my Java experience.
+This is a place for me to store and show off the programs I had created while taking intro Java Courses at shsu. All of these programs are extremely simple and show the foundation of my Java experience.
